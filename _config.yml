@@ -1,0 +1,19 @@
+lsi: false
+title: Ayush Dhar Dubey
+author: Ayush Dhar Dubey
+email: mailaddubey@gmail.com
+description: >
+  Notes from a wandering mind.
+  A small corner of the internet where I write about the things that keep me curious.
+baseurl: ""
+url: "https://ayushdhardubey.github.io"
+
+github_username:  AyushDharDubey
+linkedin_username: ayushdhardubey
+
+permalink: pretty
+theme: minima
+header_pages:
+  - about.md
+  - blogs.md
+  - library.md
