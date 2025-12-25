@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Big-O teaches growth trends. Scalable systems fail because of latency, boundaries, and multiplicative mistakes like N+1."
-date:   2025-12-25
+date:   2025-12-25 18:16:00 +0530
+author: Ayush Dhar Dubey
 categories: tech dsa
 ---
 
