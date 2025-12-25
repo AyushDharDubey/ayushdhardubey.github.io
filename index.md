@@ -20,3 +20,12 @@ I spend most of my time contributing to open-source projects or reading. A few t
 <br/>
 
 [**See my latest blog posts →**]({{ site.baseurl }}/blogs)
+
+<ul>
+  {% for post in site.posts limit:3 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span class="post-meta">{{ post.date }}</span>
+    </li>
+  {% endfor %}
+</ul>
