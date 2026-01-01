@@ -13,6 +13,7 @@ linkedin_username: ayushdhardubey
 
 permalink: /:categories/:year/:month/:day/:title/
 theme: minima
+timezone: Asia/Kolkata
 header_pages:
   - about.md
   - library.md
