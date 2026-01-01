@@ -19,7 +19,7 @@ I spend most of my time contributing to open-source projects or reading. A few t
 
 <br/>
 
-[**See my latest blog posts →**]({{ site.baseurl }}/library/)
+[**See my latest posts →**]({{ site.baseurl }}/library/)
 
 <ul>
   {% for post in site.posts limit:3 %}
