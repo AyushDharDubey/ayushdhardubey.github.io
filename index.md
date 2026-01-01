@@ -3,7 +3,7 @@ layout: default
 tags: home
 ---
 
-## Hi there,<br/>I'm Ayush Dhar Dubey.
+## Hi there, <br/>I'm Ayush Dhar Dubey.
 
 ### I’m a developer with a particular interest in open-source work, particularly in the OpenStreetMap and Django ecosystems.
 
