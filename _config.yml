@@ -11,9 +11,8 @@ url: "https://ayushdhardubey.github.io"
 github_username:  AyushDharDubey
 linkedin_username: ayushdhardubey
 
-permalink: /blogs/:year/:month/:day/:title/
+permalink: /:categories/:year/:month/:day/:title/
 theme: minima
 header_pages:
   - about.md
-  - blogs.md
   - library.md

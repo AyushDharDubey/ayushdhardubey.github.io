@@ -7,7 +7,7 @@ tags: home
 
 ### I’m a developer with a particular interest in open-source work, particularly in the OpenStreetMap and Django ecosystems.
 
-### I currently help build [3DMR](https://wiki.openstreetmap.org/wiki/3D_Model_Repository), with the aim of improving the quality of the 3D renderers available in OSM.
+### I currently help maintaining [3DMR](https://wiki.openstreetmap.org/wiki/3D_Model_Repository), with the aim of improving the quality of the 3D renderers available in OSM.
 
 <br/>
 
@@ -19,7 +19,7 @@ I spend most of my time contributing to open-source projects or reading. A few t
 
 <br/>
 
-[**See my latest blog posts →**]({{ site.baseurl }}/blogs)
+[**See my latest blog posts →**]({{ site.baseurl }}/library/)
 
 <ul>
   {% for post in site.posts limit:3 %}
