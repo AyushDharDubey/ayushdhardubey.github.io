@@ -3,7 +3,7 @@ layout: post
 title:  "What Competitive Programming Doesn’t Teach About Performance"
 date:   2025-12-25 18:16:00 +0530
 author: Ayush Dhar Dubey
-categories: tech dsa
+categories: blogs
 ---
 
 # Competitive Programmers entering production
